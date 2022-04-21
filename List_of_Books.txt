@@ -1,0 +1,20 @@
+Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture-Jon Stokes-10-Floor 2
+Code: The Hidden Language of Computer Hardware and Software-Charles Petzold-7-Floor 1
+Cracking the Coding Interview: 189 Programming Questions and Solutions-Gayle Laakmann McDowell-12-Floor 2
+Code Complete: A Practical Handbook of Software Construction-Steve McConnell-16-Floor 3
+Programming Pearls-Jon Bentley-6-Floor 1
+The Pragmatic Programmer: Your Journey to Mastery-Andrew Hunt, David Thomas-15-Floor 1
+Code Simplicity: The Fundamentals of Software-Max Kanat Alexander-11-Floor 2
+Algorithms to Live By: The Computer Science of Human Decisions-Jon Bentley-9-Floor 1
+Think Like a Programmer: An Introduction to Creative Problem Solving-V. Anton Spraul-4-Floor 3
+Soft Skills: The software developer’s life manual-John Sonmez-8-Floor 2
+Rapid Development: Taming Wild Software Schedules-Steve McConnell-3-Floor 3
+HTML and CSS: Design and Build Websites-Jon Duckett-19-Floor 1
+Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics-Jennifer Robbins-14-Floor 2
+Python Crash Course: A Hands On, Project-Based Introduction to Programming-Eric Matthes-8
+C# in Depth-Jon Skeet-8-FLoor 2
+Practical C Programming: Why Does 2+2 = 5986?-Steve Oualline-10-Floor 1
+Programming: Principles and Practice Using C++-Bjarne Stroustrup-4-Floor 3
+R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics-Paul Teetor-12-Floor 1
+SQL in 10 Minutes, Sams Teach Yourself-Ben Forta-6-Floor
+Working Effectively with Legacy Code-Michael Feathers-8-Floor 2
